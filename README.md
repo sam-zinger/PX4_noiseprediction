@@ -1,6 +1,6 @@
 Disclaimer
 
-Do not have permission to clone PX4/PX4-Autopilot.git. Hence, is why a separate git repository had to be created. PLease note, majority of files have been modified and can be viewed in PX4/PX4-Autopilot.git. 
+Do not have permission to clone PX4/PX4-Autopilot.git. Hence, is why a separate git repository had to be created. PLease note, majority of files have been modified and can be viewed in https://github.com/PX4/PX4-Autopilot.
 
 
 Project Title
